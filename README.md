@@ -184,5 +184,5 @@ This project is licensed under the MIT License.
 Legal Disclaimer: This software is developed for educational and personal archiving purposes only. Unauthorized downloading and distribution of copyrighted materials may violate YouTube Terms of Service and local laws. The user is deemed to have accepted all legal responsibilities arising from the use of the software.
 
 <p align="center">
-<sub>Developed with ❤️ by Gemini Collaboration</sub>
+<sub>Developed with ❤️ by Yusuf Can Ozan</sub>
 </p>
